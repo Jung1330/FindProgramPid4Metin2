@@ -1,0 +1,14 @@
+C:\Users\Ben\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\x86\Debug\WindowsFormsApp3.exe.config
+C:\Users\Ben\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\x86\Debug\WindowsFormsApp3.exe
+C:\Users\Ben\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\x86\Debug\WindowsFormsApp3.pdb
+C:\Users\Ben\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\x86\Debug\Memory.dll
+C:\Users\Ben\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\x86\Debug\Memory.xml
+C:\Users\Ben\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Ben\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Ben\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Ben\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Ben\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\Ben\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.exe
+C:\Users\Ben\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\x86\Debug\WindowsFormsApp3.pdb
